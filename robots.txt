@@ -1,0 +1,20 @@
+User-agent: *
+Crawl-delay: 30
+Disallow: /alpha/
+Disallow: /alphaCopy/
+Disallow: /api/
+Disallow: /beta/
+Disallow: /cgi-bin/
+Disallow: /courses/
+Disallow: /cron/
+Disallow: /demo/
+Disallow: /rest-api/
+Disallow: /v2/
+Disallow: /xx/
+Disallow: /sdcdemoweb/
+Disallow: /smart-comply.co.uk/
+Disallow: /smart-cpd.co.uk/
+Disallow: /smart-staffing.co.uk/
+Disallow: /smart-stockcontrol.co.uk/
+Disallow: /sqlFile/
+

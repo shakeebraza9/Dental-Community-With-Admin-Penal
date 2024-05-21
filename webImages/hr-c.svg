@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #561d94;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_ionic-md-person" data-name="Icon ionic-md-person" class="cls-1" d="M39.5,39.5A17.5,17.5,0,1,0,22,22,17.551,17.551,0,0,0,39.5,39.5Zm0,8.75c-11.593,0-35,5.907-35,17.5V74.5h70V65.75C74.5,54.157,51.093,48.25,39.5,48.25Z" transform="translate(-3 -3)"/>
+</svg>

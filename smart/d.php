@@ -1,0 +1,52 @@
+<?php 
+include_once("global.php");
+
+$login = $webClass->userLoginCheck();
+if(!$login){
+     echo "<script>location.reload();</script>";
+     exit();
+}
+ 
+if(isset($_REQUEST["f"])){
+
+
+@$idX = base64_decode($_GET['f']);
+$exp = explode(":s:", $idX);
+
+// var_dump($exp);
+// die;
+// @$filepath = $exp[0];
+@$idDate = $exp[1];
+
+if($idDate == date('d')){
+
+    // Get parameters
+   $filepath = urldecode($exp[0]); // Decode URL-encoded string
+
+    /* Test whether the file name contains illegal characters
+    such as "../" using the regular expression */
+    // if(preg_match('/^[^.][-a-z0-9_.]+[a-z]$/i', $file)){
+         // $filepath = $file;
+
+        // Process download
+        // if(file_exists($filepath)) {
+            header('Content-Description: File Transfer');
+            header('Content-Type: application/octet-stream');
+            header('Content-Disposition: attachment; filename="'.basename($filepath).'"');
+            header('Expires: 0');
+            header('Cache-Control: must-revalidate');
+            header('Pragma: public');
+            header('Content-Length: ' . filesize($filepath));
+            flush(); // Flush system output buffer
+            readfile($filepath);
+            die();
+        // } else {
+        //     http_response_code(404);
+        //   die();
+        // }
+    // } else {
+    //     die("Invalid file name!");
+    // }
+}
+}
+?>

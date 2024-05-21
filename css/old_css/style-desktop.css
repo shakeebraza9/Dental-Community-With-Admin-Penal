@@ -1,0 +1,118 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*.header_top_right {
+    width: 76.1%;
+}*/
+
+.banner_txt h3 {
+    font-size: 30px;
+}
+
+.banner_txt_main_ {
+    font-size: 22px;
+    max-height: 62px;
+    margin-bottom: 25px;
+}
+
+.col1 ul li {
+    margin-right: 10px;
+}
+
+.menu_area ul li a {
+    padding: 20px 5px;
+    font-size: 15px;
+}
+
+/*.logo_side {
+    width: 100%;
+    max-width: 220px;
+}*/
+
+.banner_txt {
+    bottom: 16%;
+}
+
+.logo_txt {
+    margin-top: 5px;
+}
+
+.banner_right {
+    right: 8%;
+    top: 25%;
+    width: 65%;
+}
+
+.col3_left_box_txt {
+	font-size: 15px;
+	width: 69%;
+}
+
+.col9_box h3 {
+    font-size: 18px;
+    max-height: 57px;
+}
+
+.footer_left {
+    width: 26%;
+    margin-right: 2%;
+}
+
+.footer_right {
+    width: 71.6%;
+}
+
+.footer_right_box {
+    margin-right: 4%;
+}
+
+.col13 {
+    margin-top: -50px;
+}
+
+.inner_banner_txt {
+    bottom: 20%;
+}
+
+.inner_banner_txt h3 {
+    font-size: 40px;
+    max-height: 44px;
+}
+
+.inner_banner_txt h6 {
+    width: 49%;
+    font-size: 22px;
+    max-height: 48px;
+}
+
+.col13_box {
+    margin-right: 0.9%;
+}
+
+.col14 #tabs ul li a {
+    padding: 14px 62px;
+}
+
+.col15_main ul li a {
+    font-size: 19px !important;
+    padding: 35px 15px !important;
+}
+
+.col2_right_txt {
+    width: 92%;
+}
+.col101 {
+    width: 95%;
+}
+
+.header_top_right {
+    width: 64%;
+}
+
+.menu_area ul li a {
+    padding: 20px 0px;
+    font-size: 13px;
+}

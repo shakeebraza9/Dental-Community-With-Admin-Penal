@@ -1,0 +1,902 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer {
+    position: relative;
+    width: 100%;
+    display: block;
+    vertical-align: top;
+    left: 0px; 
+}
+.packages {
+    padding: 50px 0;
+}
+
+.packages .packages_left {
+    width: 100%;
+    padding-right: 0;
+    text-align: center;
+}
+
+.packages .packages_right {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.services_inner {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.rg {
+    padding-left: 0px;
+}
+
+.lf {
+    padding-right: 0;
+}
+
+.services_main {
+    padding: 15px 0;
+}
+
+.services {
+    padding: 40px 0;
+}
+
+.services_inner h1 {
+    margin-bottom: 10px;
+    font-size: 26px;
+}
+
+.services_inner .services_inner_txt,
+.services_inner h1 {
+    text-align: center;
+}
+
+.wrapper_inner {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px
+}
+
+.wrapper_head h2 {
+    min-height: initial;
+}
+
+.wrapper {
+    margin-top: 50px;
+}
+
+.wrapper_mid {
+    max-height: inherit;
+}
+
+.wrapper_mid:after {
+    display: none;
+}
+
+.wrapper .wrapper_inner:nth-child(2) {
+    margin-top: 100px;
+}
+
+.account_btn {
+    display: none;
+}
+
+.link_menu {
+    display: none;
+}
+.link_menu__ {
+    display: inline-block;
+}
+
+.index_content {
+    position: relative;
+    width: 100%;
+}
+
+.right_side_top {
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#highcharts-mry65hn-0 {
+    height: 300px !important;
+}
+
+.right_side .change-session select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.right_side .change-session form {
+    width: 100%;
+}
+
+.change-session span {
+    margin: 0px 0px;
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+
+.right_side .change-session {
+    margin-bottom: 0px;
+}
+
+.header_bottom_left {
+    display: none;
+}
+
+.header_bottom {
+    overflow: hidden;
+}
+
+.left_side {
+    display: none;
+}
+
+.header_bottom_right {
+    position: relative;
+    float: none;
+    text-align: center;
+}
+
+.login_side {
+    text-align: left;
+    /*width: 100%;*/
+}
+
+.account_btn {
+    text-align: left;
+}
+
+.col2_top h3 {
+    display: block;
+}
+
+.col2_top h4 {
+    float: none;
+}
+
+.col2_top {
+    margin-top: 0px;
+}
+
+.box-piesite h5 {
+    margin-top: 0px;
+}
+
+.box-piesite_txt {
+    margin-top: 15px;
+}
+
+.col44 .col4_main_left ul li {
+    width: 100% !important;
+}
+
+.col44 .ui-tabs ul {
+    text-align: left;
+}
+
+.col4_txt_blue {
+    text-align: left;
+}
+
+.col4_txt_red {
+    text-align: left;
+}
+
+.col4_txt_green {
+    text-align: left;
+}
+
+.footer .main_footer .inner_footer {
+    display: none;
+}
+
+.footer h1 {
+    display: none;
+}
+
+.footer h6 {
+    display: none;
+}
+
+.social {
+    margin-top: 0px;
+}
+
+.footer .main_footer {
+    padding: 20px 0;
+}
+
+.col44 {
+    margin-bottom: 0px;
+}
+
+.col33_left_main {
+    /*padding: 20px 0px;*/
+}
+
+.col4_main {
+    margin-top: 0px;
+}
+
+.col4_main_left ul .blue:before {
+    display: block;
+    margin: 0 auto;
+}
+
+.col4_main_left2 {
+    width: 100%;
+    text-align: center;
+}
+
+.resources .col44 {
+    width: 100%;
+}
+
+.right_side .div {
+    width: 100%;
+}
+
+.myevents-div {
+    width: 95%;
+    padding: 15px;
+}
+
+
+.branches_side_input select {
+    font-size: 14px;
+    padding: 0px 0px;
+    color: #000;
+}
+
+.fc-ltr .fc-basic-view .fc-day-number {
+    text-align: center;
+}
+
+.header_bottom_left {
+    display: none;
+}
+
+.left_side {
+    display: none;
+}
+
+.right_side {
+    width: 100%;
+    padding: 20px 0px;
+    /*text-align: center;*/
+}
+
+.header_bottom_right {
+    position: relative;
+    float: none;
+    text-align: center;
+}
+
+.login_side {
+    text-align: left;
+}
+
+.account_btn {
+    text-align: left;
+}
+
+.col2_top h3 {
+    display: block;
+}
+
+.col2_top h4 {
+    float: none;
+}
+
+.col2_top {
+    margin-top: 0px;
+}
+
+.box-piesite h5 {
+    margin-top: 0px;
+}
+
+.box-piesite_txt {
+    margin-top: 15px;
+}
+
+.col3_left_main2_left .box-piesite ul li .piesite .percent span {
+    font-size: 30px;
+}
+
+.col3_left_main2_left .box-piesite ul li .piesite {
+    font-size: 8em;
+}
+
+.piesite .percent {
+    /*top: .8em;*/
+}
+
+.col4_main_left2 {
+    width: 100%;
+    text-align: left;
+}
+
+.col44 .ui-tabs ul {
+    text-align: left;
+}
+
+.col4_txt_blue {
+    text-align: left;
+}
+
+.col4_txt_red {
+    text-align: left;
+}
+
+.col4_txt_green {
+    text-align: left;
+}
+
+.footer .main_footer .inner_footer {
+    display: none;
+}
+
+.footer h1 {
+    display: none;
+}
+
+.footer h6 {
+    display: none;
+}
+
+.social {
+    margin-top: 0px;
+}
+
+.footer .main_footer {
+    padding: 20px 0;
+}
+
+/*.highcharts-container {*/
+/*    height: 300px !important;*/
+/*}*/
+
+.highcharts-credits {
+    display: none !important;
+}
+
+.col44 {
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.telephone_side {
+    display: none;
+}
+
+.header {
+    padding: 10px 0;
+}
+
+.col4_main h5 {
+    font-size: 14px;
+    width: 46%;
+    float: left;
+    margin-right: 0%;
+    margin: 0px 5px;
+}
+
+.col4_main {
+    margin-top: 0px;
+}
+
+.col4_main_left2 {
+    width: auto;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.resources .col44 {
+    width: 100%;
+}
+
+.right_side .div {
+    width: 47%;
+}
+
+.fc-ltr .fc-basic-view .fc-day-number {
+    text-align: center !important;
+}
+
+.content_side {
+    padding: 15px 0px;
+}
+
+.content_side .change-session select {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.content_side .change-session form {
+    width: 100%;
+}
+
+.change-session {
+    margin-bottom: 0px;
+}
+
+.branches_side_input select {
+    font-size: 14px;
+    padding: 0px 0px;
+    color: #000;
+}
+
+.links_area ul li a {
+    font-size: 17px;
+    width: 220px;
+}
+
+.links_area ul li a {
+    font-size: 17px;
+    width: 220px;
+}
+
+.links_area ul li a {
+    font-size: 17px !important;
+    width: 220px;
+}
+
+.links_area ul li {
+    margin-bottom: 5px;
+}
+
+#calendar .fc button {
+    padding: 0 0.5em;
+}
+
+.login_side .logout-mobile {
+    display: block;
+    color: #fff;
+}
+
+.login_side .logout-mobile span img {
+    filter: brightness(0) invert(1);
+}
+
+.alert {
+    font-size: 14px;
+    padding: 10px;
+}
+
+.col22 {
+    /*padding: 10px;*/
+}
+
+.col2_main {
+    margin-top: 10px;
+    /*padding: 10px;*/
+}
+
+.left_right_side {
+    display: block;
+    text-align: center;
+}
+
+.col2_top {
+    display: none;
+}
+
+.highcharts-title {
+    font-size: 18px !important;
+}
+
+.sticky .menu_icn {
+    display: block;
+    margin-top: 5px;
+    width: 30px;
+}
+
+.sticky {
+    padding: 2px 0;
+}
+
+.sticky .logo {
+    width: 40px;
+}
+
+.sticky .logo a h1 {
+    font-size: 15px;
+}
+
+.sticky .logo a h1 span {
+    font-size: 9px;
+}
+
+.link_menu span {
+    top: -2px;
+}
+
+.right_side_top .link_menu {
+    margin: 0px auto;
+    margin-bottom: 15px;
+}
+
+.resources_search input[type="submit"] {
+    padding: 8px 10px;
+}
+
+.health_form form .question .quest {
+    width: 100%;
+}
+
+.health_form form .question input[type="radio"] {
+    margin-left: 0px;
+}
+
+.health_form form .question span {
+    margin-left: 0px;
+    vertical-align: top;
+}
+
+.myevents {
+    padding: 10px;
+    height: 45px;
+}
+
+.myevents span {
+    font-size: 15px;
+}
+
+.myevents i {
+    font-size: 16px;
+}
+
+.sub-form .branches_side_input {
+    width: 28%;
+    margin-bottom: 10px;
+}
+
+.hr-box {
+    width: 48.5%;
+    margin-bottom: 20px;
+}
+
+.hh3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hr-absence-wrapper {
+    width: 19%;
+    font-size: 17px;
+}
+
+.hrm-user.main-user {
+    width: 45%;
+}
+
+.hrm-user {
+    /*width: 47%;*/
+    /*margin-top: 70px;*/
+}
+
+/* new*/
+.left_right_side:before {
+    display: none;
+}
+
+.mypage {
+    padding: 0 20px
+}
+
+.jumbo {
+    /*padding: 40px 20px;*/
+    background-position: right 10px center;
+    text-align: left;
+}
+
+.jumbo h3 span {
+    /*font-size: 24px;*/
+}
+
+.jumbo h3 {
+    font-size: 32px;
+}
+
+.pass,
+.fail {
+    bottom: 20%;
+}
+
+.col3_left_main2_left,
+.col3_left_main2_right {
+    width: 100%;
+    margin-right: 0;
+    padding: 0 20px;
+}
+
+.col3_left_main2_right ul li {
+    padding: 8px 30px;
+}
+
+.box-piesite {
+    margin-top: 20px;
+}
+
+.col2_main_left,
+.col2_main_right {
+    /*width: 48%;*/
+}
+
+.col3_left {
+    width: 48%;
+}
+
+.col3_left_main2_right ul li h3 {
+    font-size: 30px;
+}
+
+.title span {
+    display: none;
+}
+
+.title {
+    font-size: 18px;
+    padding: 12px 0;
+}
+
+.noti {
+    /*position: absolute;*/
+    /*z-index: 2;*/
+    /*right: 40%;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    /*margin: 0;*/
+}
+
+.print {
+    /*position: absolute;*/
+    /*z-index: 2;*/
+    /*left: 40%;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    /*margin: 0;*/
+}
+
+.c4 {
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.main-row-down ul li {
+    text-align: left;
+    font-size: 15px;
+}
+
+.main-row {
+    width: 49%;
+}
+
+.main-row .main-row-top h5 {
+    font-size: 17px;
+}
+
+.main-row .main-row-top {
+    padding: 8px 15px;
+}
+
+.main-row-down ul li:before {
+    top: 15px;
+}
+
+.health_form h4 {
+    margin: 0px 0 35px;
+}
+
+.health_form .ihcf-txt {
+    padding: 0 10px;
+    margin-bottom: 30px;
+}
+
+.quest-box {
+    text-align: left;
+}
+
+.health_form form hr {
+    margin: 25px 0 30px;
+}
+
+.myevents-div .ecategory table td {
+    width: 49%;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+.myevents-div .form_side label {
+    font-size: 15px;
+}
+
+.profile .ui-tabs ul li {
+    width: 30%;
+    margin-bottom: 8px !important;
+}
+
+header .logo_side {
+    transform: scale(1) !important;
+}
+
+.header_side {
+    height: 60px !important;
+}
+
+.cpd-inner-box {
+    padding: 20px;
+}
+
+.cpd-inner-box .line {
+    margin: 50px 0 10px;
+}
+
+.cpd-inner-box i {
+    font-size: 40px;
+    top: 20px;
+    right: 20px;
+}
+
+.cpd-courses h3 {
+    margin: 30px 0 20px;
+}
+
+.quiz {
+    padding: 30px 0;
+}
+
+.option_side_line label {
+    padding: 10px 40px;
+}
+
+.counting {
+    margin-top: 30px;
+}
+
+.search_inner {
+    width: 80%;
+}
+.coures-detail-left .detail_txt{
+margin:15% auto;
+}
+
+.coures-detail-aim {
+    width: 100%;
+}
+
+.course-detail-btn {
+    width: 100%;
+}
+
+.right_detail {
+    display: none;
+} 
+
+.grid {
+    width: 100%;
+}
+
+.news-detail {
+    width: 100%;
+    margin: 0px auto 10px;
+}
+
+.clickPost input{
+    width:85% !important;
+}
+
+.btncomment{
+    width:82%;
+}
+
+.areatbtn button.print {
+    margin: 12px auto 0px;
+    margin-right: 6px;
+}
+
+.areatbtn img{
+    margin-bottom:0px;
+    max-width: 35px;
+    max-height: 35px;
+}
+
+.grid_2 {
+    width: 61%;
+}
+
+.grid_2 .areatbtn button.print {
+    margin: 0px auto 0px;
+    margin-right: 17px;
+}
+.lunchandlearnDIV {
+     position: relative; 
+    width: 58%;
+    overflow: hidden;
+    margin: 300px 0 0 87px;
+}
+.lunchandlearnIMG{
+    display: none;
+}
+
+.fatesIMG{
+    width:50%;
+}
+.col3_right_starter{
+display: contents;
+}
+
+.jumboDash {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.jumboDash .left {
+    width: 100%;
+  
+}
+.jumboDash .left .cardDiv .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:15px ;
+  }
+.jumboDash .left .cardDiv .grid-item {
+   
+   
+    width: unset;
+   
+  }
+  .right {
+     
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.right .col2_main_left{
+    width:48%;
+    margin-top: 0px;
+}
+.right .top{
+    width:48%;
+    height: auto;
+}
+.login_main form {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.compliance-template-card .card{
+    width: 22% !important;
+}
+.compliance-template-card .left{
+    width : 30% !important;
+}
+.compliance-template-card .right{
+    width : 67% !important;
+}
+#draggable li{
+    width:unset;
+}
+.hr-absence .hr-absence-hub-tbl {
+    width: 100%;
+    overflow-x: scroll;
+    border-radius: 5px;
+}
+.newlogin_main form {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}

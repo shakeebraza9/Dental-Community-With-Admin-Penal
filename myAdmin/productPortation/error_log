@@ -1,0 +1,1 @@
+[15-Jun-2019 12:36:31 Europe/Stockholm] PHP Fatal error:  Cannot redeclare common_function::setFormToken() in /home/sharkspcom/public_html/new/_models/traits/common_functions.php on line 887

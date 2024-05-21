@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.805" height="39.775" viewBox="0 0 34.805 39.775">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#561d93"/>
+      <stop offset="0.289" stop-color="#561d96"/>
+      <stop offset="0.577" stop-color="#561da2"/>
+      <stop offset="0.863" stop-color="#561db6"/>
+      <stop offset="0.999" stop-color="#561dc3"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_metro-file-text" data-name="Icon metro-file-text" class="cls-1" d="M129.678,225.856a38.739,38.739,0,0,0-7.255-7.255c-2-1.469-2.975-1.639-3.532-1.639H99.619a3.112,3.112,0,0,0-3.107,3.1v33.564a3.112,3.112,0,0,0,3.108,3.108h28.59a3.111,3.111,0,0,0,3.107-3.108V229.386c0-.557-.17-1.528-1.639-3.532Zm-5.145-2.115a33.978,33.978,0,0,1,2.82,3.16h-5.981v-5.983a33.887,33.887,0,0,1,3.161,2.819Zm4.3,29.888a.631.631,0,0,1-.622.622H99.619a.63.63,0,0,1-.622-.622V220.064a.63.63,0,0,1,.622-.622h19.267v8.7a1.243,1.243,0,0,0,1.243,1.243h8.7Zm-6.216-4.35H105.207a1.243,1.243,0,0,1,0-2.486h17.41a1.243,1.243,0,0,1,0,2.486Zm0-4.973H105.207a1.243,1.243,0,0,1,0-2.486h17.41a1.243,1.243,0,0,1,0,2.486Zm0-4.973H105.207a1.243,1.243,0,1,1,0-2.486h17.41a1.243,1.243,0,1,1,0,2.486Z" transform="translate(-96.512 -216.962)"/>
+</svg>

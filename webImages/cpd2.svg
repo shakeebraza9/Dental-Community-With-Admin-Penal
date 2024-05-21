@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #561d94;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Group_180" data-name="Group 180" transform="translate(-636.5 -364.374)">
+    <path id="Path_1731" data-name="Path 1731" class="cls-1" d="M73,38A35,35,0,1,1,38,3,35,35,0,0,1,73,38Z" transform="translate(635 362.874)"/>
+    <path id="Icon_feather-check" data-name="Icon feather-check" class="cls-1" d="M36.783,9,15.62,30.163,6,20.544" transform="translate(651.609 381.291)"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="866" viewBox="0 0 1600 866">
+    <defs>
+        <linearGradient id="dx90zjt4yb" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#00a9bd"/>
+            <stop offset=".323" stop-color="#b83994"/>
+            <stop offset=".668" stop-color="#f07123"/>
+            <stop offset=".99" stop-color="#f9c22a"/>
+        </linearGradient>
+        <clipPath id="yf1kdam03a">
+            <rect data-name="Rectangle 2750" width="1600" height="866" rx="30" transform="translate(160 13291)" style="fill:#561d94"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 7760" transform="translate(-160 -12200)">
+        <rect data-name="Rectangle 2749" width="1600" height="866" rx="30" transform="translate(160 12200)" style="fill:#f7faff"/>
+        <g data-name="Mask Group 93" transform="translate(0 -1091)" style="clip-path:url(#yf1kdam03a)">
+            <g data-name="Group 7541" transform="translate(17082.951 14616.95)">
+                <circle data-name="Ellipse 379-2" cx="688" cy="688" r="688" transform="translate(-16210.951 -1580.95)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+                <circle data-name="Ellipse 379-2" cx="583.833" cy="583.833" r="583.833" transform="translate(-16106.782 -1476.782)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+                <ellipse data-name="Ellipse 380-2" cx="483.505" cy="483.203" rx="483.505" ry="483.203" transform="translate(-16007.062 -1375.247)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+                <circle data-name="Ellipse 381-2" cx="368.495" cy="368.495" r="368.495" transform="translate(-15891.445 -1261.445)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+                <circle data-name="Ellipse 381-2" cx="270.906" cy="270.906" r="270.906" transform="translate(-15793.854 -1163.855)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+                <circle data-name="Ellipse 381-2" cx="161.93" cy="161.93" r="161.93" transform="translate(-15684.879 -1054.879)" style="opacity:.175;isolation:isolate;fill:url(#dx90zjt4yb)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+
+                <tr>
+                <td>Full Name</td>
+                <td>ahmed2</td>
+                </tr>
+                <tr>
+                <td>Pracice Name</td>
+                <td>khan3</td>
+                </tr>
+                <tr>
+                <td>Contact No</td>
+                <td>0316502244</td>
+                </tr>
+                <tr>
+                <td>Email</td>
+                <td>ahmedattari612@gmail.com</td>
+                </tr><tr> <td>Date Time</td><td>Thu 4 Aug 2022 11:05 am</td> </tr>

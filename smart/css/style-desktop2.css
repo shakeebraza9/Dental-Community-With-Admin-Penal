@@ -1,0 +1,176 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.col4_main_left1 {
+    width: 78%;
+}
+.col4_main_left3{
+    width: 22%;
+}
+.right_side_top .col1_btn_practices {
+
+    margin-top: 5px;
+        width: 26%;
+}
+.col4_main_left2 {
+    width: 20%;
+}
+
+.header_bottom_left ul li a {
+    padding: 20px 8px;
+}
+
+.resources .col4_main_left2 {
+    width: 0;
+}
+
+.resources .col4_main_left1 {
+    width: 80%;
+}
+
+@media only screen and (max-width:1180px) {
+    .testimonials_main .testimonials_inner .testimonials_txt {
+        font-size: 20px;
+        padding: 40px 30px 60px;
+    }
+
+    .col44 .col4_main_left ul li {
+        width: 100% !important;
+    }
+    
+    .col4_main_left1{
+        width: 80%;
+    }    
+    
+    .col4_main_left3{
+        width: 15%;
+    }
+        
+    .health_form h4 {
+        margin: 30px 0;
+    }
+
+    .health_form .ihcf-txt {
+        margin-bottom: 30px;
+    }
+
+    .right_side {
+        /*width: calc(100% - 220px);*/
+    }
+ .banner_right{
+    width: 44%;
+    right: 0;
+    top: 0;
+}
+
+.banner_right:before {
+    width: 48%;
+    height: 65%;
+}
+    .cpd-inner-box {
+        padding: 20px;
+    }
+
+    .cpd-inner-box .line {
+    margin: 0 0 -23px;
+    }
+
+    .cpd-inner-box i {
+        font-size: 40px;
+        top: 20px;
+        right: 20px;
+    }
+
+    .cpd-box-content h5 {
+    font-size: 14px;
+}
+
+    .cpd-courses h3 {
+        margin: 40px 0 20px;
+    }
+
+    .cpd-courses-box a {
+        padding: 5px 15px;
+        font-size: 16px;
+    }
+    
+ .cpd-box-content h3 {
+    font-size: 18px;
+}   
+    
+    
+}
+
+.title {
+    font-size: 20px;
+    /*padding: 17px 0;*/
+}
+
+.title span {
+    font-size: 16px;
+}
+
+/*.left_side {*/
+/*    width: 200px;*/
+/*    padding-right: 20px;*/
+/*}*/
+
+.left_right_side:before {
+    width: 180px;
+}
+
+.jumbo {
+    /*padding: 35px 20px;*/
+    background-position: right 10px center;
+}
+
+.jumbo h3 span {
+    /*font-size: 28px;*/
+}
+
+.jumbo h3 {
+    font-size: 38px;
+}
+
+.col22 {
+    /*padding: 30px 20px;*/
+}
+
+.col2_main_left,
+.col2_main_right {
+    /*width: 48%;*/
+}
+
+.pass,
+.fail {
+    bottom: 20%;
+}
+
+.col3_left_main2_left,
+.col3_left_main2_right {
+    width: 100%;
+    margin-right: 0;
+}
+
+.col33_left {
+    /*width: 48%;*/
+}
+
+.col3_left_main h3 {
+    font-size: 15px;
+}
+
+.box-piesite {
+    margin-top: 20px;
+}
+
+.col3_left_main2_right ul li {
+    padding: 8px 30px;
+}
+.pie_dsply {
+    display: flex;
+    
+}

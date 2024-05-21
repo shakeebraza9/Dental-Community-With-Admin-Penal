@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="798.74" height="228.305" viewBox="0 0 798.74 228.305">
+    <defs>
+        <linearGradient id="d7tt1833ia" x1=".116" y1="-.171" x2=".989" y2="1.293" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#00a9bd"/>
+            <stop offset=".323" stop-color="#b83994"/>
+            <stop offset=".668" stop-color="#f07123"/>
+            <stop offset=".914" stop-color="#f9c22a"/>
+            <stop offset="1" stop-color="#f9c22a"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 7008" transform="translate(-161.26 -95.5)">
+        <path data-name="Path 3293" d="M106.257 128.036 10.7-59.5l-95.566 187.536-20.874 40.764h45.661l20.874-40.769L10.7 30.191l49.9 97.845L81.47 168.8h45.661zm81.211 40.764V-59.5H146.7v228.3zM326.082-59.5A114.152 114.152 0 1 0 440.234 54.652 114.278 114.278 0 0 0 326.082-59.5zm0 187.536a73.384 73.384 0 1 1 73.384-73.384 73.494 73.494 0 0 1-73.384 73.384zM652.231-28.19l-73.383 56.424-73.384-56.424L464.7-59.5v228.3h40.769V23.342L545.58 54l33.267 25.766L612.115 54l40.116-30.658V168.8H693V-59.5z" transform="translate(267 155)" style="fill:url(#d7tt1833ia)"/>
+        <circle data-name="Ellipse 395" cx="23.5" cy="23.5" r="23.5" transform="translate(572 185)" style="fill:#fff"/>
+    </g>
+</svg>

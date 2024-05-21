@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #561d94;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-loader" data-name="Icon feather-loader" transform="translate(-1.5 -1.5)">
+    <path id="Path_3327" data-name="Path 3327" class="cls-1" d="M18,3V17" transform="translate(20)"/>
+    <path id="Path_3328" data-name="Path 3328" class="cls-1" d="M18,27V41" transform="translate(20 32)"/>
+    <path id="Path_3329" data-name="Path 3329" class="cls-1" d="M7.395,7.395l9.9,9.9" transform="translate(5.86 5.86)"/>
+    <path id="Path_3330" data-name="Path 3330" class="cls-1" d="M24.36,24.36l9.9,9.9" transform="translate(28.48 28.48)"/>
+    <path id="Path_3331" data-name="Path 3331" class="cls-1" d="M3,18H17" transform="translate(0 20)"/>
+    <path id="Path_3332" data-name="Path 3332" class="cls-1" d="M27,18H41" transform="translate(32 20)"/>
+    <path id="Path_3333" data-name="Path 3333" class="cls-1" d="M7.395,34.265l9.9-9.9" transform="translate(5.86 28.48)"/>
+    <path id="Path_3334" data-name="Path 3334" class="cls-1" d="M24.36,17.3l9.9-9.9" transform="translate(28.48 5.86)"/>
+  </g>
+</svg>

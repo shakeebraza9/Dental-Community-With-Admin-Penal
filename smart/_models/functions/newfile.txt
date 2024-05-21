@@ -1,0 +1,17 @@
+
+                <tr>
+                <td>Name</td>
+                <td>ali kazmi</td>
+                </tr>
+                <tr>
+                <td>Email</td>
+                <td>dureali@imedia.com.pk</td>
+                </tr>
+                <tr>
+                <td>Number</td>
+                <td>321654</td>
+                </tr>
+                <tr>
+                <td>Practice Details</td>
+                <td>Practice Details</td>
+                </tr><tr><td>Date Time</td><td>Wed 1 Dec 2021 1:13 pm</td></tr>
